@@ -18,4 +18,4 @@ History of Type
 *28 October 2019*  
 I will walk through this exercise next week once you have all had a chance to play with it yourselves.
 
-- [Version 2](https://eleventhirty.github.io/john_baskerville/history1.html)  
+- [Version 2](https://eleventhirty.github.io/john_baskerville/history2.html)  
