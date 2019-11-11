@@ -10,6 +10,10 @@ Created my first marking up plain text file as an HTML5 page.
 *04 November 2019*  
 Added CSS.
 
+- [Version 3](https://eleventhirty.github.io/john_baskerville/baskerville3.html) 
+*11 November 2019*  
+Introduced web fonts.
+
 
 History of Type
 ---------------
