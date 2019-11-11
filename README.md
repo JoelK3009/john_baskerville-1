@@ -23,3 +23,10 @@ History of Type
 I will walk through this exercise next week once you have all had a chance to play with it yourselves.
 
 - [Version 2](https://eleventhirty.github.io/john_baskerville/history2.html)  
+
+Additional Material
+-------------------
+
+The content below does not have to be included in your list of submissions but can be referenced for your own development
+
+[Web Typography](https://eleventhirty.github.io/john_baskerville/typographic-details.html) 
