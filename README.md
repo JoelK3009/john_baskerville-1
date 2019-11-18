@@ -29,6 +29,10 @@ I will walk through this exercise next week once you have all had a chance to pl
 
 - [Version 3](https://eleventhirty.github.io/john_baskerville/history3.html)  
 
+- [Version 4](https://eleventhirty.github.io/john_baskerville/history4.html)    
+*18 November 2019*  
+Added nested list and styled navigation.
+
 Additional Material
 -------------------
 

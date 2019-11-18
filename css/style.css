@@ -5,20 +5,22 @@
     margin: 0;
     font-size: 100%;
     line-height: 1em;
+    scroll-behavior: smooth;
 }
 
 /*---------- MAIN STYLING ----------*/
 body {
-  
+    width: 80%;
+    max-width: 700px;
+    margin: auto;
     background: #fafafa;
     color: #333;
     font-family: 'Libre Baskerville', serif;
 }
 
-section, aside, header, footer {width: 80%;
-    max-width: 700px;
-    margin: auto;}
+section, aside, header, footer {}
 
+  
 /*---------------- TYPOGRAPHY ---------------*/
 
 h1, h2, h3 {
@@ -59,6 +61,26 @@ header h3 {font-style: italic}
 
 header p {font-size: 1.35em}
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 1em 0;
+}
+
+ul li {
+    margin: 10px;
+    }
+
+.list-indent {
+    margin-left: 2em;}
+
+.list-head {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;}
+
+    .red {background: orangered}
+
 /*--------------------- STYLING LINKS -----------------*/
 a {
     color: #8F0040;
@@ -80,6 +102,7 @@ nav {
     background-color: #8F0040;
     padding: 1em 0;
     font-size: 0.75em;
+    box-shadow: 0 0 10px 0 black;
 }
 
 nav ul {
@@ -91,6 +114,7 @@ nav ul {
 nav ul li {
     display: inline;
     margin: 20px;
+    background: none;
 }
 
 nav a:link {
@@ -117,9 +141,7 @@ nav a:hover {
     color: coral
 }
 
-.bold-list {
-    font-weight: bold
-}
+
 /*-------------------- FOOTER ---------------------*/
 footer {
     text-align: center;
