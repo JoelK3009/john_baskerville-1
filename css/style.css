@@ -9,13 +9,15 @@
 
 /*---------- MAIN STYLING ----------*/
 body {
-  width: 80%;
-    max-width: 700px;
-    margin: auto;
+  
     background: #fafafa;
     color: #333;
     font-family: 'Libre Baskerville', serif;
 }
+
+section, aside, header, footer {width: 80%;
+    max-width: 700px;
+    margin: auto;}
 
 /*---------------- TYPOGRAPHY ---------------*/
 
@@ -105,7 +107,19 @@ nav a:hover {
 
 }
 
+.baskerville {
+    background: #333;
+    color: #fafafa;
+    padding: 2em 0;
+}
 
+.baskerville h2 {
+    color: coral
+}
+
+.bold-list {
+    font-weight: bold
+}
 /*-------------------- FOOTER ---------------------*/
 footer {
     text-align: center;
