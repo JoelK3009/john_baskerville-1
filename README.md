@@ -27,6 +27,6 @@ I will walk through this exercise next week once you have all had a chance to pl
 Additional Material
 -------------------
 
-The content below does not have to be included in your list of submissions but can be referenced for your own development
+The content below does not have to be included in your list of submissions but can be referenced for your own development.
 
 [Web Typography](https://eleventhirty.github.io/john_baskerville/typographic-details.html) 
