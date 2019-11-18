@@ -27,6 +27,8 @@ I will walk through this exercise next week once you have all had a chance to pl
 
 - [Version 2](https://eleventhirty.github.io/john_baskerville/history2.html)  
 
+- [Version 3](https://eleventhirty.github.io/john_baskerville/history3.html)  
+
 Additional Material
 -------------------
 
