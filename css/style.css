@@ -11,7 +11,7 @@
 /*---------- MAIN STYLING ----------*/
 body {
     width: 80%;
-    max-width: 700px;
+    max-width: 600px;
     margin: auto;
     background: #fafafa;
     color: #333;
@@ -163,19 +163,24 @@ th {
     font-weight: normal;
     text-align: left;
     background: #8F0040;
-    
 }
 
 th, td {
-    padding: .6em
-}
+    padding: .6em }
 
 table, td   {
     background: rgb(221, 160, 187);
     border: 1px solid #fafafa
 }
 
+/*-------------- IMAGES -----------------*/
 
+img {
+    display: block;
+    margin: 3em auto;
+    padding: 0;
+    max-width: 100%;
+}
 
 
 
