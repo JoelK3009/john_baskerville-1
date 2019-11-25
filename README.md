@@ -18,6 +18,9 @@ Introduced web fonts.
 *18 November 2019*  
 Fixed links and nav
 
+- [Version 5](https://eleventhirty.github.io/john_baskerville/baskerville5.html) 
+
+
 History of Type
 ---------------
   
