@@ -96,7 +96,7 @@ nav {
     margin: 0;
     width: 100%;
     background-color: #8F0040;
-    padding: 1em 0;
+    padding: .5em 0;
     font-size: 0.75em;
     box-shadow: 0 0 10px 0 black;
 }
@@ -137,6 +137,47 @@ nav a:hover {
     color: coral
 }
 
+
+/*------------------- TABLE STYLING ---------------*/
+
+table {
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+    width: 100%;
+}
+
+caption {
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+th {
+    color: #fafafa;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: rgb(120, 143, 4);
+}
+
+th, td {
+    padding: .6em }
+
+table, td   {
+    background: rgb(212, 222, 164);
+    border: 1px solid #fafafa
+}
+
+/*-------------- IMAGES -----------------*/
+
+img {
+    display: block;
+    margin: 3em auto;
+    padding: 0;
+    max-width: 100%;
+}
 
 /*-------------------- FOOTER ---------------------*/
 footer {
