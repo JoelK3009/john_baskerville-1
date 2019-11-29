@@ -34,6 +34,8 @@ I will walk through this exercise next week once you have all had a chance to pl
 
 - [Version 4](https://eleventhirty.github.io/john_baskerville/history4.html)    
 - [Version 5](https://eleventhirty.github.io/john_baskerville/history5.html)    List converted to a table and images added (unfinished)
+- [Version 6](https://eleventhirty.github.io/john_baskerville/history6.html)    
+Testing…
 
 *18 November 2019*  
 Added nested list and styled navigation.

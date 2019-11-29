@@ -1,0 +1,110 @@
+
+
+/* ------------------ GRID ---------------------------------*/
+.designers {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 30px;
+}
+
+
+/* ------------------ GLOBAL STYLING --------------------*/
+body {
+  font-family: 'Libre Baskerville', serif;
+  font-style: normal;
+}
+
+header {
+  padding: 2em auto;
+  color: white;
+  background-color: #333;
+}
+
+.intro {
+  height: 240px;
+  margin-bottom: 30px;
+  padding: 30px;
+  color: white;
+  background: #333;
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+header h1 {
+  margin: 1em 0;
+  font-size: 3.27em
+}
+
+.intro p {
+  max-width: 900px;
+  margin: auto;
+  line-height: 1.5;
+}
+
+.designers{
+  max-width: 960px;
+  margin: 0 auto 30px;
+}
+ 
+.designers h1 {
+  text-align: center}
+
+article {
+  position: relative;
+  background: #48561d;}
+
+.article-img {
+  height: 300px;
+  width: 100%;
+  object-fit: cover;
+  opacity: 1;}
+
+.article-img:hover {
+  opacity: .8;
+  background: #8c0000;
+} 
+
+.article-title {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 10px 0;
+  text-transform: uppercase;
+  font-size: 0.8em;
+  background-color: rgba(255, 255, 255, 0.8);
+  letter-spacing: 1px;
+}
+
+.article-title:hover {
+  background: #8c0000;
+  color: #fff
+}
+
+footer {
+  padding: 30px;
+  text-align: center;
+  background: #333;
+  color: #fff;
+  height: 100px;
+  line-height: 1.5;
+}
+
+/* ------------- LINKS -------------- */
+
+a { color: #333}
+
+a:visited {color: #333;}
+
+a:hover {color: rgb(3, 50, 60)}
+
+
+/*----------- SMARTPHONE ----------- */
+@media (max-width: 35em) {
+  header { padding: .5em auto;}
+  header h1 {margin: .2em 0}
+  .intro {padding: 20px}
+}
+
+
+  
