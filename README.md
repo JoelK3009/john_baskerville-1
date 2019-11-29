@@ -20,7 +20,7 @@ Fixed links and nav
 
 - [Version 5](https://eleventhirty.github.io/john_baskerville/baskerville5.html) 
 
-- [Version 6](https://eleventhirty.github.io/john_baskerville/history6.html)    Testing…
+- [Version 6](https://eleventhirty.github.io/john_baskerville/baskerville6.html)    Testing…
 
 
 History of Type
