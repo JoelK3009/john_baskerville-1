@@ -143,6 +143,7 @@ nav a:visited {
 nav a:hover {
     border-bottom: none;
     color: chocolate;
+    transition: all 0.3s ease-in-out;
 
 }
 
@@ -237,7 +238,7 @@ footer {
 	
  .connections a:hover img {
 		opacity: 1.0;
-		border-bottom: none;
+		border-bottom: none; 
 		transition: all 0.3s ease-in-out; 
 				}	
 
