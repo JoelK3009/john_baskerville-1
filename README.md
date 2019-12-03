@@ -19,8 +19,13 @@ Introduced web fonts.
 Fixed links and nav
 
 - [Version 5](https://eleventhirty.github.io/john_baskerville/baskerville5.html) 
+*25 November 2019*  
+Converted list to table and added images relevant to each section
 
-- [Version 6](https://eleventhirty.github.io/john_baskerville/baskerville6.html)    Testing…
+- [Version 6](https://eleventhirty.github.io/john_baskerville/baskerville6.html)  
+*02 December 2019*  
+Applied flexbox to our content
+
 
 
 History of Type
@@ -35,7 +40,7 @@ I will walk through this exercise next week once you have all had a chance to pl
 - [Version 3](https://eleventhirty.github.io/john_baskerville/history3.html)  
 
 - [Version 4](https://eleventhirty.github.io/john_baskerville/history4.html)    
-- [Version 5](https://eleventhirty.github.io/john_baskerville/history5.html)    List converted to a table and images added (unfinished)
+- [Version 5](https://eleventhirty.github.io/john_baskerville/history5.html)    List converted to a table and images added
 
 
 *18 November 2019*  
