@@ -18,8 +18,9 @@ body {
     font-family: 'Libre Baskerville', serif;
 }
 
-/*----------------- ADDING FLEXBOX ------------------*/
+header {margin-bottom: 5em} /* To fix the issue of removing margin from the h2 we can add a margin to the bottom of our header to add a little space. */
 
+/*----------------- ADDING FLEXBOX ------------------*/
     
 article {
     display: flex;} 
@@ -56,7 +57,7 @@ h1 {font-size: 3.827em;
 }
 
 h2 {font-size: 1.999em;
-margin: 3em 0 1em 0}
+    /* margin: 3em 0 1em 0*/ } /* To fix the spacing issue with our headings of The Man and Mrs Eaves we remove  margin from our h2 here */
 
 h3 {font-size: 1.8em;
 margin-bottom: 1.5em;}
@@ -170,6 +171,7 @@ table {
     border-spacing: 2px;
     margin-bottom: 2em;
     width: 100%;
+    font-size: 0.75em
 }
 
 caption {
@@ -249,10 +251,8 @@ footer {
 
 /*------------------ TABLET ----------------------*/
 
-@media (max-width: 50em) {
-   
+@media (max-width: 50em) { /* We are using ems here to demonstrate the broad principles of media queries whereas in reality we would most likely use pixel-based breakpoints to manage our content */
     body {
-       
         width: 100%;
     }
      
@@ -274,15 +274,12 @@ section { width: 90%}
 
 /*----------- SMARTPHONE ----------- */
  @media (max-width: 30em) {
-    
    body {
-
     margin: auto 0;
     width: 95%;
     font-size: 135%; 
     }
 
-     
      
 nav ul li {
     display: block;
